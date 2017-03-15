@@ -1,0 +1,21 @@
+.resume-text {
+    color: white;
+    font-size: 1.75em;
+    text-decoration: underline;
+}
+.resume-text:hover {
+    color: wheat;
+}
+.resume-text:focus {
+    color: white;
+}
+
+.education-text {
+    text-decoration: underline;
+}
+
+.profile-pic {
+    max-width: 20%;
+    max-height: 20%;
+    border-radius: 50px;
+}
