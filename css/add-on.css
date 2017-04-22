@@ -19,3 +19,16 @@
     max-height: 25%;
     border-radius: 50%;
 }
+
+.transcript-text {
+    color: white;
+    text-decoration: underline;
+}
+
+.transcript-text:hover {
+    color: wheat;
+}
+
+.transcript-text:focus {
+    color: white;
+}
